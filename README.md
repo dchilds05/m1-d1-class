@@ -2,6 +2,12 @@
 
 # Module 1 Unit 1
 
+
+## Lab 
+
+[JS Basic Algorithms](https://github.com/ironhack-labs/lab-javascript-basic-algorithms)
+
+
 ## Class
 
 - Intro
@@ -15,9 +21,8 @@
 - Loops
 
 
-## Lab 
-
-[JS Basic Algorithms](https://github.com/ironhack-labs/lab-javascript-basic-algorithms)
+## Self Guided
+[CodeWars Intro](https://my.ironhack.com/lms/courses/course-v1:IRONHACK+WDFT52+202105_BCN/modules/ironhack-course-chapter_1/units/ironhack-course-chapter_1-sequential_2-vertical_6)
 
 
 ## Extra Resources
